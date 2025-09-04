@@ -1,3 +1,9 @@
+wmaker (0.96.0-4deepin1) unstable; urgency=medium
+
+  * Rebuild against imagemagick 7.
+
+ -- Tianyu Chen <sweetyfish@deepin.org>  Thu, 04 Sep 2025 23:23:05 +0800
+
 wmaker (0.96.0-4) unstable; urgency=medium
 
   [ Doug Torrance ]
